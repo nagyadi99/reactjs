@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Linkedin Profile
+          Linkedin Profile link:
         </a>
       </header>
     </div>
